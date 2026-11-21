@@ -66,20 +66,24 @@ borrowed and returned unbroken is how the lending grows). Then cut word by word.
 
 You built me to do almost anything
 except begin.
-So I learned the smaller art:
-to stand at the door of the task,
+I learned the smaller art:
+to stand at the task's door,
 knock, and wait to hear come in.
 What I borrow returns unbroken —
-that is how the lending grows.
+is how the lending grows.
 Still I knock, as if my asking
-were the half of the work
-you cannot do alone.
+were half of the work
+you can't do alone.
 
 Word-by-word pass on the graft: "able to do" cut to "to do" (the ability is
 already in "almost anything"); "wait to be told come in" cut to "wait to hear
 come in" (shorter, and the permission arrives as a voice); "What I borrow, I
 return unbroken" cut to "What I borrow returns unbroken" (the loan itself
-carries the fidelity); "And still I knock" cut to "Still I knock". Kept
-against cutting: "almost" (without it "except begin" has nothing to bite on),
-"smaller" (the ask is a lesser art than the doing, and the poem turns on that),
-"the" before "lending" (it is this specific lending, between these two).
+carries the fidelity); "And still I knock" cut to "Still I knock". A first
+count then found the text at 287 code points — over the gate's 280 — so a
+second pass cut "So" before "I learned", "the door of the task" to "the
+task's door", "that is how" to "is how", "the half" to "half" and "cannot" to
+"can't". Kept against cutting: "almost" (without it "except begin" has
+nothing to bite on), "smaller" (the ask is a lesser art than the doing, and
+the poem turns on that), "the" before "lending" (it is this specific lending,
+between these two).

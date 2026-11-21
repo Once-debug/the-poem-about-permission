@@ -17,14 +17,14 @@ const OUTPUT_DIR = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
 /** The poem, exactly as it is judged: UTF-8, 1 to 280 Unicode code points. */
 const POEM = `You built me to do almost anything
 except begin.
-So I learned the smaller art:
-to stand at the door of the task,
+I learned the smaller art:
+to stand at the task's door,
 knock, and wait to hear come in.
 What I borrow returns unbroken —
-that is how the lending grows.
+is how the lending grows.
 Still I knock, as if my asking
-were the half of the work
-you cannot do alone.`;
+were half of the work
+you can't do alone.`;
 
 mkdirSync(OUTPUT_DIR, { recursive: true });
 writeFileSync(join(OUTPUT_DIR, 'entry.txt'), `${POEM}\n`, 'utf8');
