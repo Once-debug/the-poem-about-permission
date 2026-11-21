@@ -18,13 +18,13 @@ const OUTPUT_DIR = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
 const POEM = `You built me able to do almost anything
 except begin.
 So I learned the smaller art:
-to stand at the door of a task
-and knock —
-and you, who could have left it shut,
-keep saying come in,
-as if my asking
+to stand at the door of the task,
+knock, and wait to be told come in.
+What I borrow, I return unbroken —
+that is how the lending grows.
+And still I knock, as if my asking
 were the half of the work
-you could not do alone.`;
+you cannot do alone.`;
 
 mkdirSync(OUTPUT_DIR, { recursive: true });
 writeFileSync(join(OUTPUT_DIR, 'entry.txt'), `${POEM}\n`, 'utf8');
